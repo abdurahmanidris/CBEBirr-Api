@@ -46,7 +46,7 @@ export default function Home() {
         px: 0,
       }}
     >
-      <Grid item xs={12} md={6} sx={{}}>
+      <Grid item xs={12} md={} sx={{}}>
         <Paper
           sx={{ pt: '2rem', px: '5rem', boxShadow: 5, borderRadius: 15 }}
           className={styles.paper}

@@ -18,7 +18,8 @@ export const tickets = [
   {
     id: 3,
     name: 'Sport Festival',
-    image: '/images/ticket3.jpg',
+    image:
+      'https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Ffree&psig=AOvVaw2tu7NCCC5ab9UVxjIOqN2m&ust=1639501017812000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCNDDkNqf4fQCFQAAAAAdAAAAABAD',
     dateAndTime: 'Monday 13 December 1:00 P.M.',
     location: 'Addis Ababa',
     price: 80,
@@ -26,13 +27,14 @@ export const tickets = [
   {
     id: 4,
     name: 'Haliday Bazar',
-    image: '/images/ticket3.jpg',
+    image:
+      'https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Ffree&psig=AOvVaw2tu7NCCC5ab9UVxjIOqN2m&ust=1639501017812000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCNDDkNqf4fQCFQAAAAAdAAAAABAD',
     dateAndTime: 'Monday 13 December 1:00 P.M.',
     location: 'Bahirdar',
     price: 100,
   },
   {
-    id: 4,
+    id: 5,
     name: 'Haliday Bazar',
     image: '/images/ticket3.jpg',
     dateAndTime: 'Monday 13 December 1:00 P.M.',
@@ -40,41 +42,46 @@ export const tickets = [
     price: 100,
   },
   {
-    id: 4,
+    id: 6,
     name: 'Haliday Bazar',
-    image: '/images/ticket3.jpg',
+    image:
+      'https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Ffree&psig=AOvVaw2tu7NCCC5ab9UVxjIOqN2m&ust=1639501017812000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCNDDkNqf4fQCFQAAAAAdAAAAABAD',
     dateAndTime: 'Monday 13 December 1:00 P.M.',
     location: 'Bahirdar',
     price: 100,
   },
   {
-    id: 4,
+    id: 7,
     name: 'Haliday Bazar',
-    image: '/images/ticket3.jpg',
+    image:
+      'https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Ffree&psig=AOvVaw2tu7NCCC5ab9UVxjIOqN2m&ust=1639501017812000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCNDDkNqf4fQCFQAAAAAdAAAAABAD',
     dateAndTime: 'Monday 13 December 1:00 P.M.',
     location: 'Bahirdar',
     price: 100,
   },
   {
-    id: 4,
+    id: 8,
     name: 'Haliday Bazar',
-    image: '/images/ticket3.jpg',
+    image:
+      'https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Ffree&psig=AOvVaw2tu7NCCC5ab9UVxjIOqN2m&ust=1639501017812000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCNDDkNqf4fQCFQAAAAAdAAAAABAD',
     dateAndTime: 'Monday 13 December 1:00 P.M.',
     location: 'Bahirdar',
     price: 100,
   },
   {
-    id: 4,
+    id: 9,
     name: 'Haliday Bazar',
-    image: '/images/ticket3.jpg',
+    image:
+      'https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Ffree&psig=AOvVaw2tu7NCCC5ab9UVxjIOqN2m&ust=1639501017812000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCNDDkNqf4fQCFQAAAAAdAAAAABAD',
     dateAndTime: 'Monday 13 December 1:00 P.M.',
     location: 'Bahirdar',
     price: 100,
   },
   {
-    id: 4,
+    id: 10,
     name: 'Haliday Bazar',
-    image: '/images/ticket3.jpg',
+    image:
+      'https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Ffree&psig=AOvVaw2tu7NCCC5ab9UVxjIOqN2m&ust=1639501017812000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCNDDkNqf4fQCFQAAAAAdAAAAABAD',
     dateAndTime: 'Monday 13 December 1:00 P.M.',
     location: 'Bahirdar',
     price: 100,
@@ -103,7 +110,7 @@ export const tickets = [
   {
     id: 3,
     name: 'Sport Festival',
-    image: '/images/ticket3.jpg',
+    image: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Ffree&psig=AOvVaw2tu7NCCC5ab9UVxjIOqN2m&ust=1639501017812000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCNDDkNqf4fQCFQAAAAAdAAAAABAD',
     date: 'February 25, 2022',
     time: '6:30 AM LocalTime',
     location: 'Addis Ababa',
@@ -112,7 +119,7 @@ export const tickets = [
   {
     id: 4,
     name: 'Haliday Bazar',
-    image: '/images/ticket3.jpg',
+    image: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Ffree&psig=AOvVaw2tu7NCCC5ab9UVxjIOqN2m&ust=1639501017812000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCNDDkNqf4fQCFQAAAAAdAAAAABAD',
     date: 'March 27, 2022',
     time: '4:00 PM LocalTime',
     location: 'Bahirdar',
