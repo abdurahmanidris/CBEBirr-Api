@@ -1,0 +1,45 @@
+const data = {
+  tickets: [
+    {
+      no: 1,
+      name: "First Ticket",
+      image: "/images/ticket1.jpg",
+      dateTime: "23/02/2021",
+      location: "Addis Abaab",
+      price: 70,
+      slug: "first-ticket",
+      userphone:"0123456789",
+    },
+    {
+      no: 2,
+      name: "Second Ticket",
+      image: "/images/ticket2.jpg",
+      dateTime: "23/02/2021",
+      location: "Harar",
+      price: 80,
+      slug: "second-ticket",
+      userphone:"0123456789",
+    },
+    {
+      no: 3,
+      name: "Third Ticket",
+      image: "/images/ticket3.jpg",
+      dateTime: "23/02/2021",
+      location: "Addis Ababa",
+      price: 80,
+      slug: "third-ticket",
+      userphone:"0123456789",
+    },
+    {
+      no: 4,
+      name: "Fourth Ticket",
+      image: "/images/ticket3.jpg",
+      dateTime: "23/02/2021",
+      location: "Bahirdar",
+      price: 100,
+      slug: "fourth-ticket",
+      userphone:"0123456789",
+    },
+  ],
+};
+export default data;
