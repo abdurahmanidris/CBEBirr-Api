@@ -50,10 +50,18 @@
   text-align: center;
 }
 
-.description {
+/* .description {
   margin: 4rem 0;
   line-height: 1.5;
   font-size: 1.5rem;
+} */
+.description {
+  margin: 0.3rem 0;
+  line-height: 1;
+  font-size: 1.2rem;
+  text-align: center;
+  text-align: center;
+  font-weight: 600;
 }
 
 .code {
@@ -69,7 +77,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  flex-wrap: wrap;
+  /* flex-wrap: wrap; */
   max-width: 800px;
 }
 
@@ -168,9 +176,48 @@
   line-height: 1.5;
 }
 
+.listTitle {
+  font-weight: 600;
+}
+
+.price {
+  color: purple;
+  font-size: large;
+  font-weight: 800;
+}
+
+.textfield {
+  margin-block: 0.3rem;
+}
+
+/* .textfield:hover,
+.textfield:focus,
+.textfield:active {
+  border-color: purple;
+} */
+.logo {
+  height: 5em;
+  font-size: large;
+  font-weight: 900;
+  margin-left: 0.5rem;
+  color: purple;
+}
 @media (max-width: 600px) {
   .grid {
     width: 100%;
     flex-direction: column;
+  }
+  .title {
+    margin-bottom: 0;
+    line-height: 1;
+    font-size: 1.5rem;
+    font-weight: 700;
+    text-align: left;
+  }
+  .textfield {
+    width: auto;
+  }
+  .paper {
+    padding-inline: 3rem;
   }
 }
